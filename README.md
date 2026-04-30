@@ -101,6 +101,7 @@
 
 ## WSI prediction
 
+### TEM01-00
 <div align="center">
   <table>
     <tr>
@@ -120,7 +121,7 @@
   </table>
 </div>
 
-
+### TEM07-00
 <div align="center">
   <table>
     <tr>
