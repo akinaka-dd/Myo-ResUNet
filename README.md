@@ -1,6 +1,19 @@
 # ResNet50-UNet
 
 ## Preprocessing
+
+<div align="center">
+  <table>
+    <tr>
+      <td style="width:200px; height:200px; text-align:center; vertical-align:middle;">
+        <img src="img/Prep/TEM01-00_01.png"
+             style="max-width:100%; max-height:100%;">
+      </td>
+
+    </tr>
+  </table>
+</div>
+
 <div align="center">
   <table>
     <tr>
