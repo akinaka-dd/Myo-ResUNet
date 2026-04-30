@@ -25,8 +25,9 @@
 <div align="center">
 <table>
   <tr>
-    <td></td><img src="img/Crop/TEM01-00_rotated_gray_crop_ROI.jpg" width="400px"></tr>td>
-    <td>
+    <td><img src="img/Crop/TEM01-00_rotated_gray_crop_ROI.jpg" width="400px"></td>
+
+  <td>
   <table>
     <tr>    
       <td>C00</td>
