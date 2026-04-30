@@ -116,12 +116,12 @@
       <img src="img/Pred/TEM01-00/TEM01-00_rotated_gray_crop_predict_rect_01.png"
            style="max-width:100%; max-height:100%;">
     </td>
-      <td style="width:200px; height:200px; text-align:center;">
-      <img src="img/Pred/TEM01-00/TEM01-00_rotated_gray_crop_gray_rr_01.png"
+    <td style="width:200px; height:200px; text-align:center;">
+      <img src="img/Pred/TEM01-00/TEM01-00_rotated_gray_crop_predict_accu_01.png"
            style="max-width:100%; max-height:100%;">
     </td>
     <td style="width:200px; height:200px; text-align:center;">
-      <img src="img/Pred/TEM01-00/TEM01-00_rotated_gray_crop_predict_grid_01.png"
+      <img src="img/Pred/TEM01-00/TEM01-00_rotated_gray_crop_predict_fcn_01.png"
            style="max-width:100%; max-height:100%;">
     </td>
   </tr>
