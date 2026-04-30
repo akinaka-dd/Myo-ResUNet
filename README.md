@@ -79,6 +79,45 @@
 ### Grad-CAM
 
 <div align="center">
+  <table>
+    <tr>
+      <td style="width:200px; height:200px; text-align:center;">
+        <img src="img/Grad-CAM/TEM01-00_rotated_gray_crop_C04-0024-526-1436-559-1469-34-34_FT_eval.png"
+             style="max-width:100%; max-height:100%;">
+      </td>
+      <td style="width:200px; height:200px; text-align:center;">
+        <img src="img/Grad-CAM/TEM01-00_rotated_gray_crop_C04-0024-526-1436-559-1469-34-34_FT_eval_p.png" 
+             style="max-width:100%; max-height:100%;">
+      </td>
+      <td style="width:200px; height:200px; text-align:center;">
+        <img src="img/Grad-CAM/TEM01-00_rotated_gray_crop_C04-0024-526-1436-559-1469-34-34_FT_eval_cam.png"
+             style="max-width:100%; max-height:100%;">
+      </td>
+      <td style="width:200px; height:200px; text-align:center;">
+        <img src="img/Grad-CAM/TEM01-00_rotated_gray_crop_C04-0024-526-1436-559-1469-34-34_FT_eval_cam_bl.png"
+             style="max-width:100%; max-height:100%;">
+      </td>
+      <td style="width:200px; height:200px; text-align:center;">
+        <img src="img/Grad-CAM/TEM01-00_rotated_gray_crop_C04-0024-526-1436-559-1469-34-34_FT_eval_sp.png"
+             style="max-width:100%; max-height:100%;">
+      </td>
+      <td style="width:200px; height:200px; text-align:center;">
+        <img src="img/Grad-CAM/TEM01-00_rotated_gray_crop_C04-0024-526-1436-559-1469-34-34_FT_eval_sp_bl.png"
+             style="max-width:100%; max-height:100%;">
+      </td>      
+    </tr>
+    <tr>
+      <td>Grayscale</td>
+      <td>Pixel-wise</td>
+      <td>Nearest neighbor interpolation</td>
+      <td>Softmax aggregation</td>
+      <td>ResNet50-UNet</td>
+    </tr>
+  </table>
+</div>
+
+
+<div align="center">
   <table style="table-layout: fixed;">
     <tr>
       <td><img src="img/Grad-CAM/TEM01-00_rotated_gray_crop_C04-0024-526-1436-559-1469-34-34_FT_eval.png" width="200px"></td>
@@ -91,7 +130,7 @@
     <tr>
       <td>A</td>
       <td>B</td>
-      <td>C: AAAAAAAAAAAAAAAAAAAAAAAAAAA</td>
+      <td>C</td>
       <td>D</td>
       <td>E</td>
       <td>F</td>
