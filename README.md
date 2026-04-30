@@ -21,6 +21,7 @@
 </div>
 
 ## Sampling
+<!--
 <div align="center">
   <table>
     <tr>    
@@ -53,7 +54,7 @@
     </tr>
   </table>
 </div>
-
+-->
     
 
 <img src="img/Crop/C00.png" width="600px">
