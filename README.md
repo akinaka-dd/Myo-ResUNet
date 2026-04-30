@@ -141,7 +141,7 @@
   <table>
     <tr>
       <td style="width:200px; height:200px; text-align:center;">
-        <img src="img/Pred/TEM01-00/TEM01-00_rotated_gray_crop_gray_rr_04-04.png"
+        <img src="img/Pred/TEM01-00/TEM01-00_rotated_gray_crop_gray_04-04.png"
              style="max-width:100%; max-height:100%;">
       </td>
       <td style="width:200px; height:200px; text-align:center;">
