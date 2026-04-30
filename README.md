@@ -23,7 +23,13 @@
 ## Sampling
 
 ## Training
+
+### Data augmentation
+
+### Improvement of accuracy
 <div align="center">
   <img src="img/TEM01-00_FT-resnet50-AdamW_accuracy.png" width="600px">
 </div>
+
+### Grad-CAM
 
