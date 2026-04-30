@@ -25,7 +25,9 @@
   <table>
     <tr>    
       <td>C00</td>
-      <td><img src="img/Crop/C00.png" width="600px"></td>
+      <td><img src="img/Crop/C00.png" width="400px"></td>
+      <td>C02</td>
+      <td><img src="img/Crop/C02.png" width="400px"></td>
     </tr>
   </table>
 </div>
