@@ -24,8 +24,8 @@
 <div align="center">
   <table>
     <tr>    
-      <td>C00</td>
-      <td style="width:100px; height:100px; text-align:center; vertical-align:middle;">
+      <td>C00??</td>
+      <td style="width:10px; height:10px; text-align:center; vertical-align:middle;">
           <img src="img/Crop/C00.png"
              style="max-width:100%; max-height:100%;">
         </div>
