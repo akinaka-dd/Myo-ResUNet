@@ -5,7 +5,7 @@ First, a convolutional neural network (CNN) was trained to classify local image 
 Next, the trained CNN was applied to entire images using a sliding-window approach with a fixed stride, and the resulting predictions were aggregated and interpolated to generate pseudo pixel-wise labels. 
 Finally, these pseudo labels were used to train a ResNet50-UNet model, enabling end-to-end prediction of tissue types at the pixel level across the whole image.
 
-1. Patch-level classification  
+1. **Patch-level classification**  
 A CNN model was trained to perform patch-level classification using manually annotated image patches as training data.
 
 
