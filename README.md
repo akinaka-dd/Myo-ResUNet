@@ -1,3 +1,3 @@
 ## Preprocessing
 
-![original](img/TEM01-00_01.png)
+<img src="img/TEM01-00.png" width="30px">
