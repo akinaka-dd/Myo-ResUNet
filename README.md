@@ -91,7 +91,7 @@
       <td><img src="img/Grad-CAM/TEM01-00_rotated_gray_crop_C04-0024-526-1436-559-1469-34-34_FT_eval_sp_bl.png" width="200px"></td>
     </tr>
     <tr>
-      <td>A</td>
+      <td>AAAAAA AAAAAA AAAAAA</td>
       <td>B</td>
       <td>C</td>
       <td>D</td>
@@ -101,45 +101,6 @@
   </table>
 </div>
 
-
-<div align="center">
-  <table>
-    <tr>
-      <td style="width:200px; height:200px; text-align:center; vertical-align:middle;">
-        <img src="img/Grad-CAM/TEM01-00_rotated_gray_crop_C04-0024-526-1436-559-1469-34-34_FT_eval.png"
-             style="max-width:100%; max-height:100%;">
-      </td>
-      <td style="width:200px; height:200px; text-align:center; vertical-align:middle;">
-        <img src="img/Grad-CAM/TEM01-00_rotated_gray_crop_C04-0024-526-1436-559-1469-34-34_FT_eval_p.png" 
-             style="max-width:100%; max-height:100%;">
-      </td>
-      <td style="width:200px; height:200px; text-align:center; vertical-align:middle;">
-        <img src="img/Grad-CAM/TEM01-00_rotated_gray_crop_C04-0024-526-1436-559-1469-34-34_FT_eval_cam.png"
-             style="max-width:100%; max-height:100%;">
-      </td>
-      <td style="width:200px; height:200px; text-align:center; vertical-align:middle;">
-        <img src="img/Grad-CAM/TEM01-00_rotated_gray_crop_C04-0024-526-1436-559-1469-34-34_FT_eval_cam_bl.png"
-             style="max-width:100%; max-height:100%;">
-      </td>
-      <td style="width:200px; height:200px; text-align:center; vertical-align:middle;">
-        <img src="img/Grad-CAM/TEM01-00_rotated_gray_crop_C04-0024-526-1436-559-1469-34-34_FT_eval_sp.png"
-             style="max-width:100%; max-height:100%;">
-      </td>
-      <td style="width:200px; height:200px; text-align:center; vertical-align:middle;">
-        <img src="img/Grad-CAM/TEM01-00_rotated_gray_crop_C04-0024-526-1436-559-1469-34-34_FT_eval_sp_bl.png"
-             style="max-width:100%; max-height:100%;">
-      </td>      
-    </tr>
-    <tr>
-      <td>A</td>
-      <td>B</td>
-      <td>C</td>
-      <td>D</td>
-      <td>E</td>
-      <td>F</td>      
-    </tr>
-  </table>
-</div>
 
 ## WSI prediction
 
