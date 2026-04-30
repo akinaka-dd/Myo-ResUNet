@@ -23,6 +23,6 @@
 
 ## Training
 
-<img src="img/TEM01-00_FT-resnet50-AdamW_accuracy.png" width="400px">
+<img src="img/TEM01-00_FT-resnet50-AdamW_accuracy.png" width="600px">
 
 
