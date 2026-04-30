@@ -22,6 +22,8 @@
 
 ## Sampling
 
+<img src="img/Crop/C00.png" width="400px">
+
 ## Training
 
 ### Data augmentation
