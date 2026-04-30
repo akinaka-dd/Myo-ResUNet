@@ -25,7 +25,8 @@
 <div align="center">
 <table>
   <tr>
-    <td><img src="img/Crop/TEM01-00_rotated_gray_crop_ROI.jpg" width="500px"></td>
+    <td><img src="img/Crop/TEM01-00_rotated_gray_crop_ROI.jpg" width="600px"></td>
+    
     <td>
     <table>
       <tr>    
