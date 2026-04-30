@@ -79,7 +79,7 @@
 ### Grad-CAM
 
 <div align="center">
-  <table>
+  <table style="table-layout: fixed;">
     <tr>
       <td><img src="img/Grad-CAM/TEM01-00_rotated_gray_crop_C04-0024-526-1436-559-1469-34-34_FT_eval.png" width="200px"></td>
       <td><img src="img/Grad-CAM/TEM01-00_rotated_gray_crop_C04-0024-526-1436-559-1469-34-34_FT_eval_p.png" width="200px"></td>
