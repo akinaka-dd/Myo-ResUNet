@@ -22,9 +22,15 @@
 
 ## Sampling
 
-<img src="img/Crop/C00.png" width="600px">
-<img src="img/Crop/C02.png" width="600px">
-<img src="img/Crop/C04.png" width="600px">
+<img src="img/Crop/C00.png" width="800px">
+<img src="img/Crop/C02.png" width="800px">
+<img src="img/Crop/C04.png" width="800px">
+<img src="img/Crop/C06.png" width="800px">
+<img src="img/Crop/C08.png" width="800px">
+<img src="img/Crop/C15.png" width="800px">
+<img src="img/Crop/C18.png" width="800px">
+<img src="img/Crop/C19.png" width="800px">
+
 
 ## Training
 
