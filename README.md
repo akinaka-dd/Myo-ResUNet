@@ -1,3 +1,5 @@
+# ResNet50-UNet
+
 ## Preprocessing
 
 <table>
@@ -16,4 +18,9 @@
   <td>E</td>
 </tr>
 </table>
-  
+
+## Sampling
+
+## Training
+
+<img src="img/TEM01-00_FT-resnet50-AdamW_accuracy.png" width=400px">
