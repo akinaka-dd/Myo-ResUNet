@@ -26,6 +26,8 @@
 
 ### Data augmentation
 
+### Softmax
+
 ### Improvement of accuracy
 <div align="center">
   <img src="img/TEM01-00_FT-resnet50-AdamW_accuracy.png" width="600px">
