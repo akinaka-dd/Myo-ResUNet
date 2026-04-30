@@ -29,6 +29,24 @@
       <td>C02</td>
       <td><img src="img/Crop/C02.png" width="400px"></td>
     </tr>
+    <tr>
+      <td>C04</td>
+      <td><img src="img/Crop/C04.png" width="400px"></td>
+      <td>C06</td>
+      <td><img src="img/Crop/C06.png" width="400px"></td>
+    </tr>
+    <tr>
+      <td>C08</td>
+      <td><img src="img/Crop/C08.png" width="400px"></td>
+      <td>C10</td>
+      <td><img src="img/Crop/C10.png" width="400px"></td>
+    </tr>    
+    <tr>
+      <td>C18</td>
+      <td><img src="img/Crop/C18.png" width="400px"></td>
+      <td>C19</td>
+      <td><img src="img/Crop/C19.png" width="400px"></td>
+    </tr>
   </table>
 </div>
 
