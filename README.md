@@ -22,10 +22,11 @@
 </div>
 
 ## Sampling
-
-<p>
-<img src="img/Crop/TEM01-00_rotated_gray_crop_ROI.jpg" width="400px">
 <div align="center">
+<table>
+  <tr>
+    <td></td><img src="img/Crop/TEM01-00_rotated_gray_crop_ROI.jpg" width="400px"></tr>td>
+    <td></td>  
   <table>
     <tr>    
       <td>C00</td>
@@ -64,8 +65,11 @@
       <td><img src="img/Crop/C19.png" width="400px"></td>
     </tr>
   </table>
+  <td>
+    
+  </tr>
+</table>
 </div>
-</p>
   
 
 
