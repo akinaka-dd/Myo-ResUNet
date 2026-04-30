@@ -10,19 +10,19 @@
              style="max-width:100%; max-height:100%;">
       </td>
       <td style="width:200px; height:200px; text-align:center; vertical-align:middle;">
-        <img src="img/Prep/TEM01-00_gray_cont_01.png" width="200px"
+        <img src="img/Prep/TEM01-00_gray_cont_01.png" 
              style="max-width:100%; max-height:100%;">
       </td>      
       <td style="width:200px; height:200px; text-align:center; vertical-align:middle;">
-        <img src="img/Prep/TEM01-00_rotated_gray_cont_01.png" width="200px"
+        <img src="img/Prep/TEM01-00_rotated_gray_cont_01.png"
              style="max-width:100%; max-height:100%;">
       </td>
       <td style="width:200px; height:200px; text-align:center; vertical-align:middle;">
-        <img src="img/Prep/TEM01-00_rotated_gray_crop_01.png" width="200px"
+        <img src="img/Prep/TEM01-00_rotated_gray_crop_01.png" 
              style="max-width:100%; max-height:100%;">
       </td>
       <td style="width:200px; height:200px; text-align:center; vertical-align:middle;">
-        <img src="img/Prep/TEM01-00_rotated_gray_mask_crop_01.png" width="200px"
+        <img src="img/Prep/TEM01-00_rotated_gray_mask_crop_01.png" 
              style="max-width:100%; max-height:100%;">
       </td>      
     </tr>
