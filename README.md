@@ -103,7 +103,6 @@
 ## WSI prediction
 
 ### TEM01-00
-
 <div align="center">
   <table>
     <tr>
@@ -143,72 +142,21 @@
   </table>
 </div>
 
-
-
-
-<div align="center">
-  <table>
-    <tr>
-      <td style="width:200px; height:200px; text-align:center;">
-        <img src="img/Pred/TEM01-00/TEM01-00_rotated_gray_crop_gray_04-04.png"
-             style="max-width:100%; max-height:100%;">
-      </td>
-      <td style="width:200px; height:200px; text-align:center;">
-        <img src="img/Pred/TEM01-00/TEM01-00_rotated_gray_crop_predict_grid_04-04.png"
-             style="max-width:100%; max-height:100%;">
-      </td>
-      <td style="width:200px; height:200px; text-align:center;">
-        <img src="img/Pred/TEM01-00/TEM01-00_rotated_gray_crop_predict_rect_04-04.png"
-             style="max-width:100%; max-height:100%;">
-      </td>
-      <td style="width:200px; height:200px; text-align:center;">
-        <img src="img/Pred/TEM01-00/TEM01-00_rotated_gray_crop_predict_accu_04-04.png"
-             style="max-width:100%; max-height:100%;">
-      </td>
-      <td style="width:200px; height:200px; text-align:center;">
-        <img src="img/Pred/TEM01-00/TEM01-00_rotated_gray_crop_predict_fcn_04-04.png"
-             style="max-width:100%; max-height:100%;">
-      </td>
-    </tr>
-    <tr>
-      <td>Grayscale</td>
-      <td>Pixel-wise</td>
-      <td>Nearest neighbor interpolation</td>
-      <td>Softmax aggregation</td>
-      <td>ResNet50-UNet</td>
-    </tr>
-  </table>
-</div>
-
 ### TEM07-00
+
 <div align="center">
   <table>
     <tr>
-      <td style="width:200px; height:200px; text-align:center;">
-        <img src="img/Pred/TEM07-00/TEM07-00_rotated_gray_crop_gray_01.png"
-             style="max-width:100%; max-height:100%;">
-      </td>
-      <td style="width:200px; height:200px; text-align:center;">
-        <img src="img/Pred/TEM07-00/TEM07-00_rotated_gray_crop_predict_grid_01.png"
-             style="max-width:100%; max-height:100%;">
-      </td>
-      <td style="width:200px; height:200px; text-align:center;">
-        <img src="img/Pred/TEM07-00/TEM07-00_rotated_gray_crop_predict_rect_01.png"
-             style="max-width:100%; max-height:100%;">
-      </td>
-      <td style="width:200px; height:200px; text-align:center;">
-        <img src="img/Pred/TEM07-00/TEM07-00_rotated_gray_crop_predict_accu_01.png"
-             style="max-width:100%; max-height:100%;">
-      </td>
-      <td style="width:200px; height:200px; text-align:center;">
-        <img src="img/Pred/TEM07-00/TEM07-00_rotated_gray_crop_predict_fcn_01.png"
-             style="max-width:100%; max-height:100%;">
-      </td>
+      <td><img src="img/Pred/TEM07-00/TEM07-00_rotated_gray_crop_gray_rr_01.png" width="200px"></td>
+      <td><img src="img/Pred/TEM07-00/TEM07-00_rotated_gray_crop_predict_grid_01.png" width="200px"></td>
+      <td><img src="img/Pred/TEM07-00/TEM07-00_rotated_gray_crop_predict_rect_01.png" width="200px"></td>
+      <td><img src="img/Pred/TEM07-00/TEM07-00_rotated_gray_crop_predict_accu_01.png" width="200px"></td>
+      <td><img src="img/Pred/TEM07-00/TEM07-00_rotated_gray_crop_predict_fcn_01.png" width="200px"></td>
     </tr>
     <tr>
       <td>Grayscale</td>
       <td>Pixel-wise</td>
-      <td>Nearest neighbor interpolation</td>
+      <td>Nearest neighbor<br> interpolation</td>
       <td>Softmax aggregation</td>
       <td>ResNet50-UNet</td>
     </tr>
