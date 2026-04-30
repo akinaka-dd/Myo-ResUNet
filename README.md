@@ -110,7 +110,14 @@
       <td><img src="img/Pred/TEM01-00/TEM01-00_rotated_gray_crop_predict_accu_01.png" width="200px"></td>
       <td><img src="img/Pred/TEM01-00/TEM01-00_rotated_gray_crop_predict_fcn_01.png" width="200px"></td>
     </tr>
-  </table>table>
+   <tr>
+      <td><img src="img/Pred/TEM01-00/TEM01-00_rotated_gray_crop_gray_04-04.png" width="200px"></td>
+      <td><img src="img/Pred/TEM01-00/TEM01-00_rotated_gray_crop_predict_grid_04-04.png" width="200px"></td>
+      <td><img src="img/Pred/TEM01-00/TEM01-00_rotated_gray_crop_predict_rect_04-04.png" width="200px"></td>
+      <td><img src="img/Pred/TEM01-00/TEM01-00_rotated_gray_crop_predict_accu_04-04.png" width="200px"></td>
+      <td><img src="img/Pred/TEM01-00/TEM01-00_rotated_gray_crop_predict_fcn_04-04.png" width="200px"></td>
+    </tr>    
+  </table>
 </div>
 
 
