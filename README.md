@@ -22,6 +22,8 @@
 </div>
 
 ## Sampling
+
+<img src="img/Crop/TEM01-00_rotated_gray_crop_ROI.jpg" width="400px">
 <div align="center">
   <table>
     <tr>    
