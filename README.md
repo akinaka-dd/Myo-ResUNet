@@ -27,7 +27,7 @@
       </td>      
     </tr>
     <tr>
-      <td>AAAAAAA AAAAAAA AAAAAAA</td>
+      <td>AAAAAAA AAA</td>
       <td>B</td>
       <td>C</td>
       <td>D</td>
