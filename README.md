@@ -116,7 +116,7 @@
     <tr>
       <td>Grayscale</td>
       <td>Pixel-wise</td>
-      <td>Nearest neighbor interpolation</td>
+      <td>Nearest neighbor<br> interpolation</td>
       <td>Softmax aggregation</td>
       <td>ResNet50-UNet</td>
     </tr>
