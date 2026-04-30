@@ -65,11 +65,8 @@
         <td><img src="img/Crop/C19.png" width="400px"></td>
       </tr>
     </table>
-      aaa
-    <td>
-      bbb
+    </td>
   </tr>
-  ccc
 </table>
 </div>
   
