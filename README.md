@@ -25,7 +25,7 @@
   <table>
     <tr>    
       <td>C00</td>
-      <td style="width:200px; height:200px; vertical-align:middle;">
+      <td style="width:200px; height:200px; text-align:center; vertical-align:middle;">
         <img src="img/Crop/C00.png"
           style="max-width:100%; max-height:100%;></td>
     </tr>
