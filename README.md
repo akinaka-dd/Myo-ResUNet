@@ -21,24 +21,29 @@
 </div>
 
 ## Sampling
-<!--
 <div align="center">
   <table>
     <tr>    
       <td>C00</td>
       <td><img src="img/Crop/C00.png" width="400px"></td>
+    </tr>
+    <tr>  
       <td>C02</td>
       <td><img src="img/Crop/C02.png" width="400px"></td>
     </tr>
     <tr>
       <td>C04</td>
       <td><img src="img/Crop/C04.png" width="400px"></td>
+    </tr>
+    <tr>
       <td>C06</td>
       <td><img src="img/Crop/C06.png" width="400px"></td>
     </tr>
     <tr>
       <td>C08</td>
       <td><img src="img/Crop/C08.png" width="400px"></td>
+    </tr>
+    <tr>
       <td>C10</td>
       <td><img src="img/Crop/C10.png" width="400px"></td>
     </tr>    
@@ -54,7 +59,7 @@
     </tr>
   </table>
 </div>
--->
+
     
 - **C00** <img src="img/Crop/C00.png" width="600px">
 <img src="img/Crop/C02.png" width="600px">
