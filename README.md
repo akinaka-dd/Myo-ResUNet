@@ -102,5 +102,14 @@
 ## WSI prediction
 
 <img src="img/Pred/TEM01-00/TEM01-00_rotated_gray_crop_gray_rr_01.png" width="300px">
+<img src="img/Pred/TEM01-00/TEM01-00_rotated_gray_crop_predict_grid_01.png" width="300px">
+
+
+
+
+
+
+
+
 
 
