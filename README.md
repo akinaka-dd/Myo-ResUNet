@@ -42,6 +42,10 @@
       <td><img src="img/Crop/C10.png" width="400px"></td>
     </tr>    
     <tr>
+      <td>C15</td>
+      <td><img src="img/Crop/C15.png" width="400px"></td>    
+    </tr>
+    <tr>
       <td>C18</td>
       <td><img src="img/Crop/C18.png" width="400px"></td>
       <td>C19</td>
