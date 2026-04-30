@@ -27,7 +27,7 @@
       </td>      
     </tr>
     <tr>
-      <td style="text-align:center; word-break:break-word;">AAAAAAA AAAAAAA</td>
+      <td style="text-align:center; word-break:break-word;">AAAAAAA AAAAAAA AAAAAAA</td>
       <td>B</td>
       <td>C</td>
       <td>D</td>
