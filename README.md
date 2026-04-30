@@ -27,6 +27,7 @@
       <td>C00</td>
       <td style="width:100px; height:100px; text-align:center; vertical-align:middle;">
           <img src="img/Crop/C00.png"
+             style="max-width:100%; max-height:100%;">
         </div>
     </tr>
     <tr>  
