@@ -24,11 +24,10 @@
 <div align="center">
   <table>
     <tr>    
-      <td>C00??</td>
+      <td>C00</td>
       <td style="width:200px; height:200px; text-align:center; vertical-align:middle;">
           <img src="img/Crop/C00.png" width="400px"
              style="max-width:100%; max-height:100%;">
-        </div>
     </tr>
     <tr>  
       <td>C02</td>
