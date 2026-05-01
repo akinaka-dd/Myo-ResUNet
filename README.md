@@ -132,10 +132,10 @@ and does not reflect pixel-accurate spatial boundaries.
       <td><img src="img/Grad-CAM/TEM01-00_rotated_gray_crop_C04-0024-526-1436-559-1469-34-34_FT_eval_sp_bl.png" width="200px"></td> -->
     </tr>
     <tr>
-      <td>AAAAAA AAAAAA AAAAAA</td>
+      <td>Grayscale input patch</td>
 <!--      <td>B</td> -->
-      <td>C</td>
-      <td>D</td>
+      <td>Grad-CAM activation map (7×7)</td>
+      <td>Bilinearly upsampled visualization</td>
 <!--      <td>E</td>
       <td>F</td>    -->
     </tr>
