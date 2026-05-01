@@ -33,7 +33,7 @@ The following shows an example using the image dataset from [Takeda et al. (2020
       <td><img src="img/Prep/TEM01-00_rotated_gray_mask_crop_01.png" width="200px"></td>
     </tr>
     <tr>
-      <td>AAAAAAA AAAAAAA<br>AAAAAAA</td>
+      <td>Original image</td>
       <td>B</td>
       <td>C</td>
       <td>D</td>
