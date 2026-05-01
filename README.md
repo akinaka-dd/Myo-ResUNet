@@ -217,4 +217,10 @@ This work demonstrates a pipeline for tissue-type classification and pixel-wise 
 
 The proposed approach enables efficient generation of pseudo pixel-wise labels from sparse annotations, reducing the need for dense manual labeling while achieving reliable segmentation performance across different samples, including both MCM and non-MCM cases.
 
+## Tested Environment and Notes
+
+This pipeline was tested on an Apple Mac Studio (M3 Ultra, 512 GB memory).
+
+While GPU acceleration (e.g., CUDA) is recommended for efficient training and inference, 
+the pipeline is also expected to run on CPU-only environments, albeit with significantly reduced performance.
 
