@@ -36,7 +36,7 @@ The following shows an example using the image dataset from [Takeda et al. (2020
       <td>Original image</td>
       <td>ROI image</td>
       <td>Aligned image</td>
-      <td>Cropped ROI image</td>
+      <td>Cropped image</td>
       <td>Mask image</td>
     </tr>
   </table>
