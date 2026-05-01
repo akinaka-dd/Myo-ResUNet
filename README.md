@@ -148,9 +148,8 @@ For large images, inference was performed on overlapping 512×512 patches.
 Gaussian weighting was applied to reduce boundary artifacts, 
 and the final prediction was obtained by stitching the overlapping outputs.
 
-Representative results are shown together with enlarged views of selected regions.
+Representative results of the proposed pipeline are shown below.
 
-### TEM01-00
 <div align="center">
   <table>
     <tr>
@@ -170,7 +169,7 @@ Representative results are shown together with enlarged views of selected region
   </table>
 </div>
 
-To provide a clearer comparison across processing stages, zoomed-in views of the regions indicated by red rectangles are shown in the same order.
+Zoomed-in views of the regions indicated by red rectangles are shown in the same order to provide a clearer comparison across processing stages.
 
 <div align="center">
   <table>
@@ -191,7 +190,7 @@ To provide a clearer comparison across processing stages, zoomed-in views of the
   </table>
 </div>
 
-### TEM07-00
+Results from another sample are also shown for comparison.
 
 <div align="center">
   <table>
