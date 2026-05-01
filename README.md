@@ -43,8 +43,8 @@ The following shows an example using the image dataset from [Takeda et al. (2020
 </div>
 
 ## Patch Sampling and Labeling
-Regions of interest (ROIs) were sampled and cropped using a custom GUI application, image-patch. !(image-patch)[https://github.com/akinaka-dd/image-patch]
-Each cropped patch was assigned one of nine labels (C00, C02, C04, …), including background (C18 and C19).
+Regions of interest (ROIs) were sampled and cropped using a custom GUI application, [image-patch](https://github.com/akinaka-dd/image-patch).
+Each cropped patch was assigned one of nine labels (C00, C02, C04, …), including background (C18 and C19), in this example.
 
 <div align="center">
 <table>
