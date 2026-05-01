@@ -8,10 +8,10 @@ Finally, these pseudo labels were used to train a ResNet50-UNet model, enabling 
 1. **Patch-level classification**  
 A CNN model was trained to perform patch-level classification using manually annotated image patches as training data.
 
-2. **Pseudo-label generation**
+2. **Pseudo-label generation**  
 The trained CNN was applied to full images using a sliding-window approach with a fixed stride, and the predictions were aggregated and interpolated to generate pseudo pixel-wise labels.
 
-3. **Pixel-wise segmentation**
+3. **Pixel-wise segmentation**  
 A ResNet50-UNet model was trained using the pseudo labels to perform pixel-wise segmentation of tissue types across the entire image.
 
 
