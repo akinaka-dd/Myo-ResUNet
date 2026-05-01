@@ -104,7 +104,8 @@ The dataset was split into two subsets, with one half used for training and the 
 During training, data augmentation techniques such as random resized cropping and horizontal flipping were applied to improve generalization. 
 Training and evaluation were repeated over multiple epochs, resulting in prediction accuracy exceeding 90% on the evaluation set.
 
-The task was formulated as a nine-class classification problem.
+The task was formulated as a nine-class classification problem, with class probabilities computed using a softmax function, 
+and the class with the highest probability was taken as the predicted label.
 
 <div align="center">
   <img src="img/TEM01-00_FT-resnet50-AdamW_accuracy.png" width="600px">
