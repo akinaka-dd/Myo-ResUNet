@@ -1,9 +1,9 @@
 # Myo-ResUNet: Weakly Supervised EM Image Segmentation for Cardiomyopathy
 
-We developed a pipeline for tissue-type classification in electron microscopy images. 
+We developed a pipeline for tissue-type classification in electron microscopy images of human cardiomyopathy. 
 First, a convolutional neural network (CNN) was trained to classify local image patches using manually annotated regions obtained through visual inspection with a custom-built annotation tool. 
 Next, the trained CNN was applied to entire images using a sliding-window approach with a fixed stride, and the resulting predictions were aggregated and interpolated to generate pseudo pixel-wise labels. 
-Finally, these pseudo labels were used to train a ResNet50-UNet model, enabling end-to-end prediction of tissue types at the pixel level across the whole image.
+Finally, these pseudo labels were used to train a ResNet50-UNet model, enabling end-to-end pixel-wise prediction of tissue types at the pixel level across the entire image.
 
 1. **Patch-level classification**  
 A CNN model was trained to perform patch-level classification using manually annotated image patches as training data.
