@@ -36,7 +36,7 @@ The following shows an example using the image dataset from [Takeda et al. (2020
     </tr>
     <tr>
       <td>Original image</td>
-      <td>Target region image</td>
+      <td>Target region</td>
       <td>Aligned image</td>
       <td>Cropped image</td>
       <td>Mask image</td>
