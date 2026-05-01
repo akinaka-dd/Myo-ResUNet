@@ -16,7 +16,10 @@ The trained CNN was applied to full images using a sliding-window approach with 
 A ResNet50-UNet model was trained using the pseudo labels to perform pixel-wise segmentation of tissue types across the entire image.
 
 
-## Preprocessing
+## Preprocessing of Training Images
+Training images were preprocessed to ensure spatial consistency and to focus on relevant regions for model training. 
+Specifically, images were aligned along horizontal and vertical axes, and regions of interest encompassing the full extent of the target tissue were extracted. 
+These steps standardize the input data and reduce variability unrelated to tissue characteristics.
 
 <div align="center">
   <table>
