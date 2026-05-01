@@ -19,7 +19,9 @@ A ResNet50-UNet model was trained using the pseudo labels to perform pixel-wise 
 
 ## Preprocessing of Training Images
 Training images were preprocessed to ensure spatial consistency and to focus on relevant regions for model training. 
-Specifically, images were aligned along horizontal and vertical axes, and regions of interest encompassing the full extent of the target tissue were extracted, along with corresponding mask images defining the target regions. 
+Specifically, images were aligned along horizontal and vertical axes, 
+and regions covering the full extent of the target tissue were extracted, 
+along with corresponding mask images defining structures within these regions. 
 These steps standardize the input data and reduce variability unrelated to tissue characteristics.
 
 The following shows an example using the image dataset from [Takeda et al. (2020)](https://doi.org/10.1136/jclinpath-2020-206801).
