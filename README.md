@@ -30,14 +30,14 @@ The following shows an example using the image dataset from [Takeda et al. (2020
   <table>
     <tr>
       <td><img src="img/Prep/TEM01-00_01.png" width="200px"></td>
-      <!-- <td><img src="img/Prep/TEM01-00_gray_cont_01.png" width="200px"></td> -->
+      <td><img src="img/Prep/TEM01-00_gray_cont_01.png" width="200px"></td>
       <td><img src="img/Prep/TEM01-00_rotated_gray_cont_01.png" width="200px"></td>
       <td><img src="img/Prep/TEM01-00_rotated_gray_crop_01.png" width="200px"></td>
       <td><img src="img/Prep/TEM01-00_rotated_gray_mask_crop_01.png" width="200px"></td>
     </tr>
     <tr>
       <td>Original image</td>
-      <!-- <td>Target region</td> -->
+      <td>Target region</td>
       <td>Aligned image</td>
       <td>Cropped image</td>
       <td>Mask image</td>
@@ -125,7 +125,7 @@ and does not reflect pixel-accurate spatial boundaries.
   <table>
     <tr>
       <td><img src="img/Grad-CAM/TEM01-00_rotated_gray_crop_C04-0024-526-1436-559-1469-34-34_FT_eval.png" width="200px"></td>
-      <td><img src="img/Grad-CAM/TEM01-00_rotated_gray_crop_C04-0024-526-1436-559-1469-34-34_FT_eval_p.png" width="200px"></td>
+<!--      <td><img src="img/Grad-CAM/TEM01-00_rotated_gray_crop_C04-0024-526-1436-559-1469-34-34_FT_eval_p.png" width="200px"></td> -->
       <td><img src="img/Grad-CAM/TEM01-00_rotated_gray_crop_C04-0024-526-1436-559-1469-34-34_FT_eval_cam.png" width="200px"></td>
       <td><img src="img/Grad-CAM/TEM01-00_rotated_gray_crop_C04-0024-526-1436-559-1469-34-34_FT_eval_cam_bl.png" width="200px"></td>
 <!--      <td><img src="img/Grad-CAM/TEM01-00_rotated_gray_crop_C04-0024-526-1436-559-1469-34-34_FT_eval_sp.png" width="200px"></td>
@@ -133,7 +133,7 @@ and does not reflect pixel-accurate spatial boundaries.
     </tr>
     <tr>
       <td>AAAAAA AAAAAA AAAAAA</td>
-      <td>B</td>
+<!--      <td>B</td> -->
       <td>C</td>
       <td>D</td>
 <!--      <td>E</td>
