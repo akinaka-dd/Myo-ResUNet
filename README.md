@@ -30,14 +30,14 @@ The following shows an example using the image dataset from [Takeda et al. (2020
   <table>
     <tr>
       <td><img src="img/Prep/TEM01-00_01.png" width="200px"></td>
-      <td><img src="img/Prep/TEM01-00_gray_cont_01.png" width="200px"></td>
+      <!-- <td><img src="img/Prep/TEM01-00_gray_cont_01.png" width="200px"></td> -->
       <td><img src="img/Prep/TEM01-00_rotated_gray_cont_01.png" width="200px"></td>
       <td><img src="img/Prep/TEM01-00_rotated_gray_crop_01.png" width="200px"></td>
       <td><img src="img/Prep/TEM01-00_rotated_gray_mask_crop_01.png" width="200px"></td>
     </tr>
     <tr>
       <td>Original image</td>
-      <td>Target region</td>
+      <!-- <td>Target region</td> -->
       <td>Aligned image</td>
       <td>Cropped image</td>
       <td>Mask image</td>
