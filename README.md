@@ -137,7 +137,20 @@ and does not reflect pixel-accurate spatial boundaries.
 </div>
 
 
-## WSI prediction
+## Pseudo-label Generation and Full-Image Segmentation
+Pixel-wise pseudo labels were generated from sliding-window predictions on a regular grid. 
+Specifically, class probabilities obtained from the CNN were aggregated using softmax-based weighting, 
+and spatial alignment (mapping to the original image coordinate space) was achieved via softmax-based aggregation, 
+with nearest-neighbor interpolation provided as a baseline for comparison.
+
+These pseudo labels were then used to fine-tune a ResNet50-based U-Net model pretrained on ImageNet for full-image segmentation. 
+The model outputs pixel-wise class probabilities via a softmax layer.
+
+For large images, inference was performed on overlapping 512×512 patches. 
+Gaussian weighting was applied to reduce boundary artifacts, 
+and the final prediction was obtained by stitching the overlapping outputs.
+
+Representative results are shown together with enlarged views of selected regions.
 
 ### TEM01-00
 <div align="center">
