@@ -142,10 +142,8 @@ Pixel-wise pseudo labels were generated from sliding-window predictions on a reg
 Specifically, class probabilities obtained from the CNN were aggregated using softmax-based weighting, 
 and spatial alignment (mapping to the original image coordinate space) was achieved via softmax-based aggregation, 
 with nearest-neighbor interpolation provided as a baseline for comparison.
-
 These pseudo labels were then used to fine-tune a ResNet50-based U-Net model pretrained on ImageNet for full-image segmentation. 
 The model outputs pixel-wise class probabilities via a softmax layer.
-
 For large images, inference was performed on overlapping 512×512 patches. 
 Gaussian weighting was applied to reduce boundary artifacts, 
 and the final prediction was obtained by stitching the overlapping outputs.
@@ -163,16 +161,17 @@ Representative results are shown together with enlarged views of selected region
       <td><img src="img/Pred/TEM01-00/TEM01-00_rotated_gray_crop_predict_fcn_01.png" width="200px"></td>
     </tr>
     <tr>
-      <td>Grayscale</td>
-      <td>Pixel-wise</td>
+      <td>Grayscale input</td>
+      <td>Pixel-wise prediction</td>
       <td>Nearest neighbor<br> interpolation</td>
       <td>Softmax aggregation</td>
-      <td>ResNet50-UNet</td>
+      <td>ResNet50-UNet output</td>
     </tr>
   </table>
 </div>
 
-#### Zoom in
+To better illustrate the behavior of each processing stage, representative central regions of the images are also shown in the same order.
+
 <div align="center">
   <table>
     <tr>
@@ -183,11 +182,11 @@ Representative results are shown together with enlarged views of selected region
       <td><img src="img/Pred/TEM01-00/TEM01-00_rotated_gray_crop_predict_fcn_04-04.png" width="200px"></td>
     </tr>
     <tr>
-      <td>Grayscale</td>
-      <td>Pixel-wise</td>
+      <td>Grayscale input</td>
+      <td>Pixel-wise prediction</td>
       <td>Nearest neighbor<br> interpolation</td>
       <td>Softmax aggregation</td>
-      <td>ResNet50-UNet</td>
+      <td>ResNet50-UNet output</td>
     </tr>
   </table>
 </div>
