@@ -3,7 +3,7 @@
 We developed a pipeline for tissue-type classification in electron microscopy images of human cardiomyopathy. 
 First, a convolutional neural network (CNN) was trained to classify local image patches using manually annotated regions obtained through visual inspection with a custom-built annotation tool. 
 Next, the trained CNN was applied to entire images using a sliding-window approach (scanning the image with a fixed-size window at regular intervals), 
-and the resulting predictions were aggregated and interpolated to generate pseudo pixel-wise labels (automatically generated labels based on model predictions). 
+and the resulting predictions were aggregated and interpolated to generate pseudo pixel-wise labels (labels generated from model predictions). 
 Finally, these pseudo labels were used to train a ResNet50-UNet model, enabling end-to-end pixel-wise prediction of tissue types at the pixel level across the entire image.
 This approach reduces the need for dense manual annotation by leveraging pseudo-labeling techniques.
 
