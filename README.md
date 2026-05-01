@@ -115,7 +115,7 @@ and the class with the highest probability was taken as the predicted label.
 ## Model Interpretation with Grad-CAM
 Grad-CAM was used to visualize class-discriminative regions in the input patches. 
 The method combines gradients of the target class with the feature maps from the final convolutional layer to generate a coarse localization map.
-Since the last convolutional feature map has a spatial resolution of approximately 7&\times;7, 
+Since the last convolutional feature map has a spatial resolution of approximately 7$\times$7, 
 the resulting Grad-CAM map is inherently low-resolution. 
 Bilinear upsampling is applied to match the input size, producing a visually smooth heatmap.
 It should be noted that the upsampled visualization is only a smoothed representation of this coarse map, 
