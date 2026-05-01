@@ -22,6 +22,7 @@ Training images were preprocessed to ensure spatial consistency and to focus on 
 Specifically, images were aligned along horizontal and vertical axes, and regions of interest encompassing the full extent of the target tissue were extracted, along with corresponding mask images defining the target regions. 
 These steps standardize the input data and reduce variability unrelated to tissue characteristics.
 
+The following shows an example using the image dataset from Takeda et al. (2020).
 <div align="center">
   <table>
     <tr>
