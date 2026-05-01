@@ -97,13 +97,15 @@ Spatial distribution of cropped patches overlaid on the original image, color-co
 </table>
 </div>
   
-## Training
+## CNN Training and Evaluation
 
-### Data augmentation
+A CNN model was trained using the sampled patches for multi-class classification. 
+The dataset was split into two subsets, with one half used for training and the other half for evaluation.
+During training, data augmentation techniques such as random resized cropping and horizontal flipping were applied to improve generalization. 
+Training and evaluation were repeated over multiple epochs, resulting in prediction accuracy exceeding 90% on the evaluation set.
 
-### Softmax
+The task was formulated as a nine-class classification problem.
 
-### Improvement of accuracy
 <div align="center">
   <img src="img/TEM01-00_FT-resnet50-AdamW_accuracy.png" width="600px">
 </div>
