@@ -98,11 +98,11 @@ Spatial distribution of cropped patches overlaid on the original image, color-co
 </div>
   
 ## CNN Training and Evaluation
-
 A CNN model based on a ResNet50 architecture pretrained on ImageNet was fine-tuned using the sampled patches for multi-class classification. 
 The dataset was split into two subsets, with one half used for training and the other half for evaluation.
 During training, data augmentation techniques such as random resized cropping and horizontal flipping were applied to improve generalization. 
-Training and evaluation were repeated over multiple epochs, resulting in prediction accuracy exceeding 90% on the evaluation set.
+Training and evaluation were repeated over multiple epochs (one full pass through the training data), 
+resulting in prediction accuracy exceeding 90% on the evaluation set.
 
 The task was formulated as a nine-class classification problem, with class probabilities computed using a softmax function, 
 and the class with the highest probability was taken as the predicted label.
