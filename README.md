@@ -45,11 +45,11 @@ The following shows an example using the image dataset from [Takeda et al. (2020
 ## Patch Sampling and Labeling
 Regions of interest (ROIs) were sampled and cropped using a custom GUI application, [image-patch](https://github.com/akinaka-dd/image-patch).
 Each cropped patch was assigned one of nine labels (C00, C02, C04, …), including background (C18 and C19), in this example.
+Spatial distribution of cropped patches overlaid on the original image, color-coded by label.
 
 <div align="center">
 <table>
   <tr>
-    <td><img src="img/Crop/TEM01-00_rotated_gray_crop_ROI.jpg" width="500px"></td>
     <td>
     <table>
       <tr>    
@@ -90,6 +90,7 @@ Each cropped patch was assigned one of nine labels (C00, C02, C04, …), includi
       </tr>
     </table>
     </td>
+    <td><img src="img/Crop/TEM01-00_rotated_gray_crop_ROI.jpg" width="500px"></td>
   </tr>
 </table>
 </div>
