@@ -6,6 +6,7 @@ Next, the trained CNN was applied to entire images using a sliding-window approa
 Finally, these pseudo labels were used to train a ResNet50-UNet model, enabling end-to-end pixel-wise prediction of tissue types at the pixel level across the entire image.
 This approach reduces the need for dense manual annotation by leveraging pseudo-labeling techniques.
 
+The overall pipeline consists of the following steps:
 1. **Patch-level classification**  
 A CNN model was trained to perform patch-level classification using manually annotated image patches as training data.
 
