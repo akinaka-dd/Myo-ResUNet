@@ -34,10 +34,10 @@ The following shows an example using the image dataset from [Takeda et al. (2020
     </tr>
     <tr>
       <td>Original image</td>
-      <td>B</td>
-      <td>C</td>
-      <td>D</td>
-      <td>E</td>
+      <td>ROI image</td>
+      <td>Aligned image</td>
+      <td>Cropped ROI image</td>
+      <td>Mask image</td>
     </tr>
   </table>
 </div>
