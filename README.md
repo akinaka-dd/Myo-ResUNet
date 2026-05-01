@@ -148,7 +148,7 @@ For large images, inference was performed on overlapping 512×512 patches.
 Gaussian weighting was applied to reduce boundary artifacts, 
 and the final prediction was obtained by stitching the overlapping outputs.
 
-Representative results of the proposed pipeline are shown below.
+Results for a representative case of MCM are shown below.
 
 <div align="center">
   <table>
@@ -190,7 +190,7 @@ Zoomed-in views of the regions indicated by red rectangles are shown in the same
   </table>
 </div>
 
-Results from another sample are also shown for comparison.
+Results from an additional non-MCM sample are also shown for comparison.
 
 <div align="center">
   <table>
@@ -211,6 +211,10 @@ Results from another sample are also shown for comparison.
   </table>
 </div>
 
+## Key Takeaways
 
+This work demonstrates a pipeline for tissue-type classification and pixel-wise segmentation in electron microscopy images using a combination of CNN-based patch classification and a ResNet50-UNet segmentation model.
+
+The proposed approach enables efficient generation of pseudo pixel-wise labels from sparse annotations, reducing the need for dense manual labeling while achieving reliable segmentation performance across different samples, including both MCM and non-MCM cases.
 
 
