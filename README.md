@@ -202,11 +202,11 @@ Results from an additional non-MCM sample are also shown for comparison.
       <td><img src="img/Pred/TEM07-00/TEM07-00_rotated_gray_crop_predict_fcn_01.png" width="200px"></td>
     </tr>
     <tr>
-      <td>Grayscale</td>
-      <td>Pixel-wise</td>
+      <td>Grayscale input</td>
+      <td>Pixel-wise prediction</td>
       <td>Nearest neighbor<br> interpolation</td>
       <td>Softmax aggregation</td>
-      <td>ResNet50-UNet</td>
+      <td>ResNet50-UNet output</td>
     </tr>
   </table>
 </div>
