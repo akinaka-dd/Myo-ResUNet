@@ -170,7 +170,7 @@ Representative results are shown together with enlarged views of selected region
   </table>
 </div>
 
-To better illustrate the behavior of each processing stage, representative central regions of the images are also shown in the same order.
+To provide a clearer comparison across processing stages, zoomed-in views of the regions indicated by red rectangles are shown in the same order.
 
 <div align="center">
   <table>
